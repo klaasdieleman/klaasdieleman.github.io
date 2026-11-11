@@ -3,3 +3,4 @@
 
 # quarto render artifacts
 /index_files
+/.quarto
