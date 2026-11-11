@@ -1,0 +1,35 @@
+---
+title: "Klaas's Developer Portfolio"
+author:
+  - name: Klaas Dieleman
+    orcid: 0009-0007-6414-1389
+    email: k.p.dieleman@students.uu.nl
+    affiliations:
+     - name: Methodology & Statistics @ Utrecht University
+date: 11 Nov 2026
+date-format: "D MMM YYYY"
+---
+
+# Hi 👋🏼
+
+This page is my public portfolio as a statistician (to be).
+
+_disclaimer: this page is for the course MLaRPiS purpose only, it doesn't represent me as a professional developer_
+
+## Who am I?
+
+My name is Klaas, a guy from Utrecht, Netherlands. This is me doing what I like doing most:
+
+![© Wout Peters - 2026](./run_forest_run.jpg){fig-align="left" width=33%}
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/klaasdieleman/).
+
+## What do I do?
+
+Here's a list of things I currently do when not sleeping:
+
+- Working as a full time web developer at an agency. I've been doing this for the past 20 years.
+- Acquiring my Master's grade in methods, statistics and data science at [Utrecht University](https://www.uu.nl/en).
+- Enjoying my family
+- Running
+- Visiting concerts

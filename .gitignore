@@ -1,0 +1,5 @@
+# rendered HTML
+*.html
+
+# quarto render artifacts
+/index_files
